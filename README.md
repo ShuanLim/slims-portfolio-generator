@@ -1,4 +1,4 @@
-# Slim's Social Network API
+# Slim's Portfolio Generator
 
 ## Table Of Contents
 
