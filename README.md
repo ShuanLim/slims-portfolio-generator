@@ -65,7 +65,7 @@ npm start
 
 ## Screenshot
 
-<a href='<img width="1013" alt="profilegenerator" src="https://user-images.githubusercontent.com/79289373/180108680-acede838-b645-4b8b-a106-59a5780d245a.png">'></a>
+<img width="1013" alt="profilegenerator" src="https://user-images.githubusercontent.com/79289373/180108680-acede838-b645-4b8b-a106-59a5780d245a.png">
 
 ## Link to video demonstration
 
